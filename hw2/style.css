@@ -1,0 +1,20 @@
+body{
+    background: black;
+    color: whitesmoke;
+    font-family: "微軟正黑體";
+}
+h1{
+    text-align: center;
+}
+legend{
+    font-size: 120%;
+}
+
+select,fieldset input{
+    width: 30%;
+    padding: 0 0;
+    
+}
+input[type="radio"]{
+    width: auto;
+}

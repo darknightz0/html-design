@@ -1,0 +1,33 @@
+
+body{
+    background: black;
+    color: whitesmoke;
+    font-family: "微軟正黑體";
+}
+h1{
+    text-align: center;
+    
+}
+.c{
+    position: relative;
+    width: fit-content; /* 根據圖片自適應 */
+    margin:  auto;
+}
+
+.over{
+    position:absolute;
+   
+    z-index: 1;
+    font-size: 120%;
+    color: black;
+}
+p{
+    width:20%;
+    font-weight: bold;
+    text-align-last: justify;
+}
+#idcard{
+    width:85.7mm;
+    height: 54mm;
+}
+/*rgb(255,241,200);*/
